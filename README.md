@@ -1,4 +1,4 @@
 # elf2gba
 load ELF to GBA
 
-This is only a research project. if you are a homebrew developer, use objcopy and gbafix instead.
+This is only a research project. If you are a homebrew developer, use objcopy and gbafix instead.
